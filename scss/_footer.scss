@@ -1,0 +1,17 @@
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 200px 90px 0px 90px;
+    width: 100vw;
+    height: 250px;
+    img {
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        box-shadow: -3px -0px 0px $shadow;
+        margin-left: 20px;
+    }
+}
